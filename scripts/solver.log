@@ -1,0 +1,3 @@
+INFO:models.cp_sat_2_stages_monolith:Start solving...
+INFO:models.cp_sat_2_stages_monolith:Solver parameter max_time_in_seconds = 20
+INFO:models.cp_sat_2_stages_monolith:Solving Done !

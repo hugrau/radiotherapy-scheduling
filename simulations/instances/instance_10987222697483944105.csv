@@ -1,0 +1,757 @@
+id_day,scanner_date,validation_date,half_day,patient_id,patient_location,urgency
+2,2025-04-22,2025-04-26,2,200,uro : prostate rt,3
+2,2025-04-22,2025-04-24,2,201,poumon : hypofx 60 lsd,1
+2,2025-04-22,2025-04-22,2,202,poumon : stereo 5 fx (paroi) lid,1
+2,2025-04-22,2025-04-24,1,203,uro : prostate post op,3
+2,2025-04-22,2025-04-28,1,204,seno : sein gauche,2
+2,2025-04-22,2025-04-22,2,205,seno : sein gauche,2
+2,2025-04-22,2025-04-23,1,206,orl : post op,1
+2,2025-04-22,2025-04-25,2,207,meta 20 gy,2
+2,2025-04-22,2025-04-28,1,208,poumon : stade iii lsd,1
+2,2025-04-22,2025-04-22,2,209,neuro : glioblastome,1
+2,2025-04-22,2025-04-25,1,210,neuro : glioblastome,1
+2,2025-04-22,2025-04-24,1,211,neuro : gliome de bas grade,1
+2,2025-04-22,2025-04-25,2,212,seno : sein gauche,2
+2,2025-04-22,2025-04-24,1,213,poumon : stereo 5 fx (paroi) lsg,1
+2,2025-04-22,2025-04-26,1,214,hemato : hodgkin,2
+2,2025-04-22,2025-04-25,2,215,poumon : hypofx 55 lid,1
+2,2025-04-22,2025-04-25,2,216,gyneco : colvaginlaing,2
+2,2025-04-22,2025-04-28,1,217,uro : prostate post op,3
+2,2025-04-22,2025-04-26,1,218,meta 20 gy,2
+2,2025-04-22,2025-04-23,1,219,uro : prostate post op,3
+2,2025-04-22,2025-04-29,2,220,dig : rectum,2
+2,2025-04-22,2025-04-22,2,221,pedia : neuroblastome,1
+2,2025-04-22,2025-04-29,2,222,meta 20 gy,2
+2,2025-04-22,2025-04-25,2,223,uro : prostate post op,3
+2,2025-04-22,2025-04-29,2,224,uro : prostate rt,3
+2,2025-04-22,2025-04-22,1,225,meta 20 gy,2
+2,2025-04-22,2025-04-29,2,226,metastase,2
+2,2025-04-22,2025-04-25,2,227,seno : sein droit,2
+2,2025-04-22,2025-04-24,2,228,seno : sein droit,2
+2,2025-04-22,2025-04-29,2,229,uro : prostate hypofrac,3
+2,2025-04-22,2025-04-25,2,230,neuro : glioblastome,1
+2,2025-04-22,2025-04-25,1,231,orl : tumeur en place,1
+2,2025-04-22,2025-04-24,1,232,uro : prostate hypofrac,3
+2,2025-04-22,2025-04-22,2,233,neuro : meningiome gii,1
+2,2025-04-22,2025-04-28,2,234,dermato : spino/baso en place,3
+3,2025-04-23,2025-04-29,2,300,dermato : gg adjuvant,3
+3,2025-04-23,2025-05-02,1,301,uro : prostate post op,3
+3,2025-04-23,2025-04-23,2,302,uro : prostate rt,3
+3,2025-04-23,2025-04-28,2,303,neuro : gliome de bas grade,1
+3,2025-04-23,2025-04-29,1,304,dig : oesophage preop,1
+3,2025-04-23,2025-04-26,2,305,seno : sein droit,2
+3,2025-04-23,2025-04-29,1,306,meta 20 gy,2
+3,2025-04-23,2025-04-28,1,307,seno : sein droit,2
+3,2025-04-23,2025-04-24,2,308,neuro : glioblastome,1
+3,2025-04-23,2025-04-28,1,309,neuro : glioblastome,1
+3,2025-04-23,2025-04-29,1,310,meta 30 gy,2
+3,2025-04-23,2025-04-23,1,311,poumon : stereo 5 fx (paroi) lid,1
+3,2025-04-23,2025-04-30,2,312,seno : sein droit,2
+3,2025-04-23,2025-04-28,1,313,poumon : hypofx 60 lsg,1
+3,2025-04-23,2025-04-29,2,314,meta 30 gy,2
+3,2025-04-23,2025-04-26,2,315,pedia : tgm boost,1
+3,2025-04-23,2025-04-30,1,316,sarcome : post-operatoire r 1,1
+3,2025-04-23,2025-04-25,2,317,uro : prostate post op,3
+3,2025-04-23,2025-04-25,1,318,meta 20 gy,2
+3,2025-04-23,2025-04-26,2,319,dermato : gg adjuvant,3
+3,2025-04-23,2025-04-29,2,320,neuro : glioblastome,1
+3,2025-04-23,2025-04-28,1,321,meta 20 gy,2
+3,2025-04-23,2025-04-24,2,322,dig : rectum,2
+3,2025-04-23,2025-04-29,2,323,hemato : lymphome nh,2
+3,2025-04-23,2025-04-23,1,324,poumon : stereo 5 fx (paroi) lid,1
+3,2025-04-23,2025-04-29,1,325,uro : prostate post op,3
+3,2025-04-23,2025-04-26,2,326,meta 8 gy,1
+3,2025-04-23,2025-04-29,2,327,orl : post op,1
+3,2025-04-23,2025-04-29,1,328,uro : prostate rt grains,3
+3,2025-04-23,2025-04-28,2,329,seno : sein gauche,2
+4,2025-04-24,2025-04-29,2,400,dig : rectum,2
+4,2025-04-24,2025-04-25,2,401,meta 30 gy,2
+4,2025-04-24,2025-04-29,2,402,uro : prostate post op,3
+4,2025-04-24,2025-04-29,2,403,neuro : glioblastome,1
+4,2025-04-24,2025-04-26,2,404,metastase,2
+4,2025-04-24,2025-04-25,2,405,neuro : meningiome gii,1
+4,2025-04-24,2025-04-28,2,406,seno : sein droit,2
+4,2025-04-24,2025-04-25,2,407,uro : prostate rt,3
+4,2025-04-24,2025-04-24,1,408,neuro : glioblastome,1
+4,2025-04-24,2025-04-25,1,409,seno : sein gauche,2
+4,2025-04-24,2025-04-24,2,410,seno : sein droit,2
+4,2025-04-24,2025-04-23,2,411,poumon : stade iii lsd,1
+4,2025-04-24,2025-04-30,2,412,meta 8 gy,1
+4,2025-04-24,2025-04-24,2,413,uro : prostate post op,3
+4,2025-04-24,2025-04-28,2,414,neuro : gliome de bas grade,1
+4,2025-04-24,2025-05-03,1,415,neuro : glioblastome,1
+4,2025-04-24,2025-04-30,1,416,seno : sein droit,2
+4,2025-04-24,2025-05-01,2,417,poumon : stereo 5 fx (centrale) lid,1
+4,2025-04-24,2025-04-28,1,418,seno : sein droit,2
+4,2025-04-24,2025-04-26,2,419,orl : tumeur en place,1
+4,2025-04-24,2025-04-28,1,420,dig : foie 5 fractions,2
+4,2025-04-24,2025-04-29,1,421,orl : tumeur en place,1
+4,2025-04-24,2025-04-29,2,422,neuro : metastase stic 3 fractions 30 gy,1
+4,2025-04-24,2025-04-28,2,423,hemato : lymphome nh,2
+4,2025-04-24,2025-05-01,1,424,orl : tumeur en place,1
+4,2025-04-24,2025-04-28,2,425,poumon : stereo 5 fx (centrale) lsd,1
+4,2025-04-24,2025-04-29,2,426,hemato : hodgkin,2
+4,2025-04-24,2025-04-28,2,427,dermato : spino/baso en place,3
+4,2025-04-24,2025-04-29,1,428,uro : prostate post op,3
+5,2025-04-25,2025-05-01,2,500,poumon : stereo 5 fx (paroi) lsd,1
+5,2025-04-25,2025-05-01,1,501,seno : sein droit,2
+5,2025-04-25,2025-04-29,2,502,seno : sein gauche,2
+5,2025-04-25,2025-04-26,2,503,seno : sein droit,2
+5,2025-04-25,2025-04-28,2,504,dig : foie 5 fractions,2
+5,2025-04-25,2025-04-30,1,505,hemato : lymphome nh,2
+5,2025-04-25,2025-05-01,2,506,uro : prostate rt,3
+5,2025-04-25,2025-04-26,1,507,seno : sein droit,2
+5,2025-04-25,2025-04-25,2,508,uro : prostate post op,3
+5,2025-04-25,2025-04-28,1,509,hemato : hodgkin,2
+5,2025-04-25,2025-04-29,1,510,metastase,2
+5,2025-04-25,2025-04-29,1,511,seno : sein gauche,2
+5,2025-04-25,2025-04-29,1,512,seno : sein + gg gauche,2
+5,2025-04-25,2025-05-01,2,513,seno : sein droit,2
+5,2025-04-25,2025-04-28,1,514,meta 20 gy,2
+5,2025-04-25,2025-04-30,1,515,gyneco : colvaginlaing,2
+5,2025-04-25,2025-04-29,1,516,meta 20 gy,2
+5,2025-04-25,2025-04-28,1,517,orl : tumeur en place,1
+5,2025-04-25,2025-04-28,2,518,seno : paroi + gg gauche,2
+5,2025-04-25,2025-04-29,1,519,hemato : ict 8 gy,4
+5,2025-04-25,2025-04-25,2,520,neuro : glioblastome,1
+5,2025-04-25,2025-04-29,1,521,seno : sein gauche,2
+5,2025-04-25,2025-04-28,1,522,dig : oesophage,1
+5,2025-04-25,2025-05-06,2,523,seno : paroi gauche,2
+5,2025-04-25,2025-04-29,1,524,poumon : stereo 3 fx lsg,1
+5,2025-04-25,2025-04-30,1,525,orl : tumeur en place,1
+5,2025-04-25,2025-04-29,1,526,sarcome : pre ou post-operatoire sans chimio,1
+5,2025-04-25,2025-04-30,2,527,seno : sein gauche,2
+5,2025-04-25,2025-05-01,2,528,neuro : metastase stic 3 fractions 30 gy,1
+8,2025-04-28,2025-05-02,2,800,dermato : gg adjuvant,3
+8,2025-04-28,2025-04-28,2,801,meta 20 gy,2
+8,2025-04-28,2025-04-30,1,802,hemato : hodgkin,2
+8,2025-04-28,2025-05-01,2,803,seno : sein gauche dibh,2
+8,2025-04-28,2025-05-02,1,804,poumon : hypofx 55 lsd,1
+8,2025-04-28,2025-05-01,1,805,dig : estomac,1
+8,2025-04-28,2025-04-30,2,806,seno : paroi gauche,2
+8,2025-04-28,2025-04-29,1,807,hemato : lymphome nh,2
+8,2025-04-28,2025-05-01,2,808,seno : sein droit,2
+8,2025-04-28,2025-04-28,1,809,poumon : stereo 5 fx (paroi) lsd,1
+8,2025-04-28,2025-05-09,2,810,poumon : stereo 5 fx (paroi) lsg,1
+8,2025-04-28,2025-04-29,1,811,uro : prostate post op,3
+8,2025-04-28,2025-04-30,1,812,seno : sein droit,2
+8,2025-04-28,2025-05-02,1,813,poumon : stereo 3 fx lsg,1
+8,2025-04-28,2025-05-02,1,814,uro : prostate rt grains,3
+9,2025-04-29,2025-05-02,2,900,uro : prostate post op,3
+9,2025-04-29,2025-05-06,1,901,seno : sein gauche,2
+9,2025-04-29,2025-05-06,1,902,orl : post op,1
+9,2025-04-29,2025-04-29,2,903,hemato : lymphome nh,2
+9,2025-04-29,2025-05-06,2,904,neuro : glioblastome,1
+9,2025-04-29,2025-05-06,1,905,seno : paroi + gg droite,2
+9,2025-04-29,2025-05-01,2,906,uro : prostate rt grains,3
+9,2025-04-29,2025-05-06,2,907,seno : sein droit,2
+9,2025-04-29,2025-05-06,2,908,seno : sein gauche,2
+9,2025-04-29,2025-05-01,1,909,meta 20 gy,2
+9,2025-04-29,2025-04-30,1,910,seno : sein droit,2
+9,2025-04-29,2025-05-06,2,911,sarcome : pre ou post-operatoire sans chimio,1
+9,2025-04-29,2025-05-02,2,912,sarcome : pre ou post-operatoire sans chimio,1
+9,2025-04-29,2025-05-02,1,913,uro : prostate hypofrac,3
+9,2025-04-29,2025-05-03,2,914,sarcome : pre ou post-operatoire sans chimio,1
+9,2025-04-29,2025-05-02,2,915,seno : sein droit,2
+9,2025-04-29,2025-04-30,2,916,uro : prostate post op,3
+9,2025-04-29,2025-05-01,2,917,uro : prostate rt grains,3
+9,2025-04-29,2025-05-06,2,918,seno : sein droit,2
+9,2025-04-29,2025-05-01,2,919,orl : tumeur en place,1
+9,2025-04-29,2025-05-02,2,920,seno : sein droit,2
+10,2025-04-30,2025-05-05,1,1000,dermato : gg adjuvant,3
+10,2025-04-30,2025-05-05,1,1001,uro : prostate grains hypofrac,3
+10,2025-04-30,2025-04-30,2,1002,seno : paroi + gg gauche,2
+10,2025-04-30,2025-04-30,2,1003,meta 30 gy,2
+10,2025-04-30,2025-05-03,1,1004,neuro : metastase stic 3 fractions 30 gy,1
+10,2025-04-30,2025-05-02,1,1005,dig : rectum,2
+10,2025-04-30,2025-05-05,2,1006,sarcome : post-operatoire r 1,1
+10,2025-04-30,2025-05-01,1,1007,uro : prostate grains hypofrac,3
+10,2025-04-30,2025-05-03,1,1008,meta 20 gy,2
+10,2025-04-30,2025-05-07,1,1009,dermato : spino/baso en place,3
+10,2025-04-30,2025-05-05,2,1010,poumon : stereo 5 fx (paroi) lig,1
+10,2025-04-30,2025-05-03,1,1011,meta 30 gy,2
+10,2025-04-30,2025-05-02,1,1012,hemato : myelome,2
+10,2025-04-30,2025-05-05,2,1013,uro : prostate rt grains,3
+10,2025-04-30,2025-05-03,2,1014,poumon : stereo 3 fx lm,1
+10,2025-04-30,2025-05-03,1,1015,pedia : sarcome,1
+10,2025-04-30,2025-05-03,1,1016,dermato : spino/baso en place,3
+10,2025-04-30,2025-05-06,1,1017,neuro : oligoendrogliome giii,1
+10,2025-04-30,2025-05-03,1,1018,uro : prostate hypofrac,3
+10,2025-04-30,2025-05-06,1,1019,seno : sein droit,2
+10,2025-04-30,2025-05-06,1,1020,poumon : stereo 5 fx (centrale) lid,1
+10,2025-04-30,2025-05-01,1,1021,dermato : spino/baso en place,3
+10,2025-04-30,2025-05-07,1,1022,uro : prostate rt,3
+10,2025-04-30,2025-05-06,2,1023,orl : tumeur en place,1
+10,2025-04-30,2025-05-03,2,1024,poumon : stade iii lsd,1
+10,2025-04-30,2025-05-01,2,1025,orl : plan glottique,1
+12,2025-05-02,2025-05-02,1,1200,orl : tumeur en place,1
+12,2025-05-02,2025-05-07,1,1201,dermato : gg adjuvant,3
+12,2025-05-02,2025-05-06,1,1202,hemato : myelome,2
+12,2025-05-02,2025-05-07,2,1203,seno : sein gauche,2
+12,2025-05-02,2025-05-06,1,1204,poumon : stade iii lig,1
+12,2025-05-02,2025-05-06,2,1205,orl : tumeur en place,1
+12,2025-05-02,2025-05-05,1,1206,uro : prostate hypofrac,3
+12,2025-05-02,2025-05-03,1,1207,sarcome : pre ou post-operatoire sans chimio,1
+12,2025-05-02,2025-05-03,2,1208,meta 30 gy,2
+12,2025-05-02,2025-05-05,1,1209,meta 20 gy,2
+12,2025-05-02,2025-05-02,1,1210,seno : sein gauche,2
+12,2025-05-02,2025-05-02,1,1211,dig : canal anal,1
+12,2025-05-02,2025-05-09,2,1212,orl : plan glottique,1
+12,2025-05-02,2025-05-06,1,1213,uro : prostate rt,3
+12,2025-05-02,2025-05-05,1,1214,seno : boost lit t droit,2
+12,2025-05-02,2025-05-06,2,1215,seno : sein droit,2
+12,2025-05-02,2025-05-07,1,1216,meta 20 gy,2
+12,2025-05-02,2025-05-07,2,1217,uro : stec prostate grains,3
+12,2025-05-02,2025-05-05,2,1218,uro : prostate post op,3
+12,2025-05-02,2025-05-06,1,1219,uro : prostate post op,3
+12,2025-05-02,2025-05-08,1,1220,seno : sein gauche,2
+12,2025-05-02,2025-05-03,2,1221,seno : sein + gg droit,2
+12,2025-05-02,2025-05-07,2,1222,dig : pancreas exclusif,1
+12,2025-05-02,2025-05-06,2,1223,seno : sein gauche,2
+12,2025-05-02,2025-05-07,1,1224,orl : tumeur en place,1
+12,2025-05-02,2025-05-02,1,1225,neuro : glioblastome,1
+12,2025-05-02,2025-05-06,2,1226,sarcome : pre ou post-operatoire sans chimio,1
+15,2025-05-05,2025-05-10,2,1500,orl : plan glottique,1
+15,2025-05-05,2025-05-12,1,1501,orl : post op,1
+15,2025-05-05,2025-05-08,1,1502,meta 8 gy,1
+15,2025-05-05,2025-05-10,2,1503,dig : voie biliaires exclusive,2
+15,2025-05-05,2025-05-12,2,1504,neuro : glioblastome age,1
+15,2025-05-05,2025-05-06,1,1505,uro : vessie,1
+15,2025-05-05,2025-05-05,1,1506,meta 8 gy,1
+15,2025-05-05,2025-05-10,1,1507,neuro : metastase stic 3 fractions 30 gy,1
+15,2025-05-05,2025-05-06,2,1508,metastase,2
+15,2025-05-05,2025-05-09,1,1509,meta 20 gy,2
+15,2025-05-05,2025-05-13,2,1510,uro : prostate rt grains + curie,3
+15,2025-05-05,2025-05-09,2,1511,uro : vessie hypofrac 55,1
+15,2025-05-05,2025-05-06,2,1512,uro : prostate post op,3
+15,2025-05-05,2025-05-06,1,1513,sarcome : pre ou post-operatoire avec chimio,1
+16,2025-05-06,2025-05-07,1,1600,sarcome : pre ou post-operatoire sans chimio,1
+16,2025-05-06,2025-05-06,2,1601,hemato : hodgkin,2
+16,2025-05-06,2025-05-10,1,1602,meta : os 3 fractions 27 gy,2
+16,2025-05-06,2025-05-07,2,1603,uro : prostate post op,3
+16,2025-05-06,2025-05-10,1,1604,seno : paroi + gg droite,2
+16,2025-05-06,2025-05-13,2,1605,poumon : stereo 5 fx (paroi) lid,1
+16,2025-05-06,2025-05-10,2,1606,seno : paroi + gg gauche,2
+16,2025-05-06,2025-05-13,1,1607,sarcome : pre ou post-operatoire avec chimio,1
+16,2025-05-06,2025-05-06,1,1608,seno : boost lit t gauche,2
+16,2025-05-06,2025-05-13,2,1609,seno : sein gauche,2
+16,2025-05-06,2025-05-09,1,1610,dermato : spino/baso en place,3
+16,2025-05-06,2025-05-13,1,1611,meta 30 gy,2
+16,2025-05-06,2025-05-09,2,1612,seno : sein droit,2
+16,2025-05-06,2025-05-08,1,1613,hemato : myelome,2
+16,2025-05-06,2025-05-10,1,1614,dig : rectum,2
+16,2025-05-06,2025-05-07,2,1615,neuro : oligoendrogliome giii,1
+16,2025-05-06,2025-05-08,1,1616,uro : prostate hypofrac,3
+16,2025-05-06,2025-05-13,1,1617,neuro : glioblastome,1
+16,2025-05-06,2025-05-09,2,1618,seno : sein + gg droit,2
+16,2025-05-06,2025-05-09,2,1619,orl : tumeur en place,1
+16,2025-05-06,2025-05-09,1,1620,uro : prostate rt,3
+16,2025-05-06,2025-05-09,2,1621,seno : sein droit,2
+16,2025-05-06,2025-05-12,2,1622,meta 20 gy,2
+16,2025-05-06,2025-05-07,2,1623,neuro : gliome de bas grade,1
+16,2025-05-06,2025-05-12,2,1624,meta 8 gy,1
+16,2025-05-06,2025-05-07,2,1625,seno : sein droit,2
+16,2025-05-06,2025-05-08,1,1626,seno : sein + gg droit,2
+17,2025-05-07,2025-05-13,1,1700,hemato : hodgkin,2
+17,2025-05-07,2025-05-09,1,1701,hemato : myelome,2
+17,2025-05-07,2025-05-08,2,1702,neuro : metastase stic 3 fractions 30 gy,1
+17,2025-05-07,2025-05-14,2,1703,seno : paroi + gg gauche,2
+17,2025-05-07,2025-05-10,1,1704,seno : paroi + gg gauche,2
+17,2025-05-07,2025-05-13,1,1705,poumon : stereo 5 fx (paroi) lig,1
+17,2025-05-07,2025-05-08,1,1706,meta 30 gy,2
+17,2025-05-07,2025-05-07,2,1707,orl : reirradiation post-op,1
+17,2025-05-07,2025-05-07,2,1708,uro : prostate rt grains,3
+17,2025-05-07,2025-05-13,1,1709,uro : prostate post op,3
+17,2025-05-07,2025-05-13,1,1710,seno : boost lit t gauche,2
+17,2025-05-07,2025-05-08,1,1711,dermato : spino/baso en place,3
+17,2025-05-07,2025-05-12,2,1712,poumon : stereo 5 fx (paroi) lsg,1
+17,2025-05-07,2025-05-12,2,1713,seno : sein droit,2
+17,2025-05-07,2025-05-13,1,1714,uro : prostate rt grains,3
+17,2025-05-07,2025-05-12,2,1715,uro : prostate rt,3
+17,2025-05-07,2025-05-13,2,1716,dermato : gg adjuvant,3
+17,2025-05-07,2025-05-14,2,1717,seno : paroi + gg gauche,2
+17,2025-05-07,2025-05-10,2,1718,seno : sein gauche,2
+17,2025-05-07,2025-05-08,1,1719,poumon : hypofx 55 lid,1
+17,2025-05-07,2025-05-14,2,1720,hemato : hodgkin,2
+17,2025-05-07,2025-05-12,1,1721,seno : sein droit,2
+17,2025-05-07,2025-05-12,1,1722,seno : sein gauche,2
+17,2025-05-07,2025-05-10,1,1723,meta 20 gy,2
+19,2025-05-09,2025-05-12,1,1900,poumon : hypofx 60 lid,1
+19,2025-05-09,2025-05-12,1,1901,uro : prostate rt,3
+19,2025-05-09,2025-05-14,1,1902,orl : tumeur en place,1
+19,2025-05-09,2025-05-13,2,1903,neuro : glioblastome,1
+19,2025-05-09,2025-05-13,2,1904,uro : prostate rt,3
+19,2025-05-09,2025-05-10,2,1905,seno : paroi + gg droite,2
+19,2025-05-09,2025-05-14,1,1906,poumon : stereo 5 fx (paroi) lsg,1
+19,2025-05-09,2025-05-14,1,1907,meta 30 gy,2
+19,2025-05-09,2025-05-20,2,1908,dig : canal anal,1
+19,2025-05-09,2025-05-15,2,1909,seno : sein gauche,2
+19,2025-05-09,2025-05-12,1,1910,poumon : stereo 5 fx (centrale) lsg,1
+19,2025-05-09,2025-05-14,2,1911,seno : sein droit,2
+19,2025-05-09,2025-05-14,2,1912,uro : prostate hypofrac,3
+19,2025-05-09,2025-05-13,2,1913,seno : sein droit,2
+19,2025-05-09,2025-05-12,1,1914,seno : sein gauche,2
+19,2025-05-09,2025-05-13,1,1915,metastase,2
+19,2025-05-09,2025-05-16,1,1916,poumon : hypofx 55 lsg,1
+19,2025-05-09,2025-05-10,2,1917,hemato : hodgkin,2
+19,2025-05-09,2025-05-10,1,1918,dig : foie 5 fractions,2
+19,2025-05-09,2025-05-13,1,1919,neuro : metastase stic 3 fractions 30 gy,1
+19,2025-05-09,2025-05-13,2,1920,poumon : stereo 5 fx (paroi) lsg,1
+19,2025-05-09,2025-05-09,1,1921,poumon : stereo 5 fx (centrale) lig,1
+22,2025-05-12,2025-05-14,1,2200,seno : sein gauche,2
+22,2025-05-12,2025-05-16,1,2201,meta 20 gy,2
+22,2025-05-12,2025-05-20,2,2202,neuro : glioblastome,1
+22,2025-05-12,2025-05-17,1,2203,neuro : glioblastome,1
+22,2025-05-12,2025-05-13,1,2204,neuro : schwannome,3
+22,2025-05-12,2025-05-16,2,2205,neuro : glioblastome,1
+22,2025-05-12,2025-05-14,1,2206,uro : prostate rt,3
+22,2025-05-12,2025-05-14,2,2207,gyneco : colvagin,2
+22,2025-05-12,2025-05-17,1,2208,poumon : stereo 5 fx (centrale) lsg,1
+22,2025-05-12,2025-05-15,2,2209,pedia : tgm ventricules,1
+22,2025-05-12,2025-05-14,1,2210,uro : prostate rt,3
+22,2025-05-12,2025-05-17,1,2211,seno : paroi + gg droite,2
+22,2025-05-12,2025-05-15,1,2212,poumon : hypofx 55 lsd,1
+22,2025-05-12,2025-05-16,2,2213,dermato : spino/baso en place,3
+22,2025-05-12,2025-05-14,2,2214,uro : prostate post op,3
+22,2025-05-12,2025-05-20,1,2215,uro : prostate rt grains,3
+22,2025-05-12,2025-05-14,2,2216,dig : rectum 5 fractions,2
+22,2025-05-12,2025-05-13,2,2217,gyneco : colvaginlaing,2
+22,2025-05-12,2025-05-17,2,2218,poumon : stade iii lsd,1
+22,2025-05-12,2025-05-17,1,2219,dermato : gg adjuvant,3
+22,2025-05-12,2025-05-15,2,2220,seno : sein gauche dibh,2
+23,2025-05-13,2025-05-13,1,2300,uro : prostate rt,3
+23,2025-05-13,2025-05-16,2,2301,orl : plan glottique,1
+23,2025-05-13,2025-05-23,2,2302,seno : sein gauche,2
+23,2025-05-13,2025-05-16,2,2303,seno : boost lit t gauche,2
+23,2025-05-13,2025-05-17,2,2304,seno : sein gauche,2
+23,2025-05-13,2025-05-16,2,2305,sarcome : pre ou post-operatoire avec chimio,1
+23,2025-05-13,2025-05-15,2,2306,meta 30 gy,2
+23,2025-05-13,2025-05-14,1,2307,uro : prostate rt grains,3
+23,2025-05-13,2025-05-15,2,2308,meta 20 gy,2
+23,2025-05-13,2025-05-19,2,2309,poumon : hypofx 55 lsg,1
+23,2025-05-13,2025-05-15,1,2310,meta 30 gy,2
+23,2025-05-13,2025-05-16,2,2311,seno : sein + gg gauche,2
+23,2025-05-13,2025-05-15,2,2312,seno : sein + gg droit,2
+23,2025-05-13,2025-05-14,2,2313,poumon : stade iii lid,1
+23,2025-05-13,2025-05-16,1,2314,sarcome : pre ou post-operatoire sans chimio,1
+23,2025-05-13,2025-05-15,1,2315,seno : paroi + gg gauche,2
+23,2025-05-13,2025-05-15,1,2316,neuro : oligoendrogliome giii,1
+23,2025-05-13,2025-05-20,2,2317,meta 30 gy,2
+23,2025-05-13,2025-05-15,2,2318,uro : prostate rt,3
+23,2025-05-13,2025-05-15,2,2319,gyneco : endometre,2
+23,2025-05-13,2025-05-17,1,2320,uro : prostate post op,3
+23,2025-05-13,2025-05-14,2,2321,uro : prostate post op,3
+23,2025-05-13,2025-05-17,2,2322,neuro : glioblastome,1
+23,2025-05-13,2025-05-14,2,2323,meta vertebre 3 fx,2
+23,2025-05-13,2025-05-20,1,2324,gyneco : vulve,2
+23,2025-05-13,2025-05-15,2,2325,pedia : gliome du tronc,1
+23,2025-05-13,2025-05-14,2,2326,neuro : metastase dose unique 20 gy,1
+23,2025-05-13,2025-05-16,1,2327,seno : sein gauche,2
+23,2025-05-13,2025-05-17,2,2328,seno : sein droit,2
+23,2025-05-13,2025-05-17,2,2329,seno : sein gauche,2
+23,2025-05-13,2025-05-16,2,2330,orl : post op,1
+23,2025-05-13,2025-05-16,1,2331,meta 30 gy,2
+23,2025-05-13,2025-05-19,2,2332,seno : paroi + gg gauche,2
+24,2025-05-14,2025-05-20,1,2400,seno : sein droit,2
+24,2025-05-14,2025-05-19,1,2401,seno : paroi + gg gauche,2
+24,2025-05-14,2025-05-16,1,2402,uro : prostate post op,3
+24,2025-05-14,2025-05-20,1,2403,uro : prostate post op,3
+24,2025-05-14,2025-05-16,1,2404,dig : foie 5 fractions,2
+24,2025-05-14,2025-05-14,1,2405,poumon : stereo 5 fx (paroi) lsd,1
+24,2025-05-14,2025-05-19,2,2406,seno : sein droit,2
+24,2025-05-14,2025-05-20,1,2407,meta 20 gy,2
+24,2025-05-14,2025-05-15,1,2408,poumon : stereo 5 fx (paroi) lsg,1
+24,2025-05-14,2025-05-17,2,2409,meta : os 3 fractions 30 gy,2
+24,2025-05-14,2025-05-17,2,2410,orl : tumeur en place,1
+24,2025-05-14,2025-05-14,2,2411,seno : sein gauche,2
+24,2025-05-14,2025-05-15,1,2412,hemato : hodgkin,2
+24,2025-05-14,2025-05-16,1,2413,orl : tumeur en place,1
+24,2025-05-14,2025-05-20,2,2414,seno : sein + gg droit,2
+24,2025-05-14,2025-05-20,1,2415,meta 20 gy,2
+24,2025-05-14,2025-05-17,2,2416,gyneco : endometre,2
+24,2025-05-14,2025-05-15,2,2417,neuro : adenome hypophysaire,3
+24,2025-05-14,2025-05-15,2,2418,seno : sein droit,2
+24,2025-05-14,2025-05-17,2,2419,poumon : stereo 5 fx (paroi) lsd,1
+24,2025-05-14,2025-05-16,2,2420,poumon : stade iii lm,1
+24,2025-05-14,2025-05-17,2,2421,neuro : oligoendrogliome giii,1
+24,2025-05-14,2025-05-20,2,2422,hemato : myelome,2
+24,2025-05-14,2025-05-20,2,2423,hemato : lymphome nh,2
+24,2025-05-14,2025-05-17,1,2424,neuro : glioblastome,1
+24,2025-05-14,2025-05-13,1,2425,poumon : stade iii lsd,1
+24,2025-05-14,2025-05-16,1,2426,uro : prostate hypofrac,3
+24,2025-05-14,2025-05-17,1,2427,meta 20 gy,2
+24,2025-05-14,2025-05-15,2,2428,neuro : glioblastome,1
+24,2025-05-14,2025-05-20,1,2429,dig : oesophage preop,1
+24,2025-05-14,2025-05-17,1,2430,meta 20 gy,2
+25,2025-05-15,2025-05-17,2,2500,hemato : ict 8 gy,4
+25,2025-05-15,2025-05-19,1,2501,uro : prostate hypofrac,3
+25,2025-05-15,2025-05-17,2,2502,neuro : schwannome,3
+25,2025-05-15,2025-05-21,2,2503,uro : prostate hypofrac,3
+25,2025-05-15,2025-05-17,2,2504,seno : sein + gg gauche,2
+25,2025-05-15,2025-05-20,2,2505,orl : tumeur en place,1
+25,2025-05-15,2025-05-21,2,2506,uro : prostate hypofrac,3
+25,2025-05-15,2025-05-17,2,2507,dig : rectum 5 fractions,2
+25,2025-05-15,2025-05-20,1,2508,dermato : gg adjuvant,3
+25,2025-05-15,2025-05-16,1,2509,dig : oesophage,1
+25,2025-05-15,2025-05-16,1,2510,seno : sein droit,2
+25,2025-05-15,2025-05-19,2,2511,sarcome : pre ou post-operatoire avec chimio,1
+25,2025-05-15,2025-05-20,1,2512,seno : sein droit,2
+25,2025-05-15,2025-05-20,2,2513,orl : post op,1
+25,2025-05-15,2025-05-20,1,2514,poumon : hypofx 60 lid,1
+25,2025-05-15,2025-05-20,1,2515,poumon : stereo 5 fx (paroi) lig,1
+25,2025-05-15,2025-05-17,1,2516,poumon : stereo 5 fx (centrale) lsg,1
+25,2025-05-15,2025-05-20,2,2517,orl : tumeur en place,1
+25,2025-05-15,2025-05-19,2,2518,meta vertebre 3 fx,2
+25,2025-05-15,2025-05-19,2,2519,dermato : spino/baso en place,3
+26,2025-05-16,2025-05-16,2,2600,meta 30 gy,2
+26,2025-05-16,2025-05-17,1,2601,seno : paroi + gg droite,2
+26,2025-05-16,2025-05-17,2,2602,meta vertebre 3 fx,2
+26,2025-05-16,2025-05-17,2,2603,dig : oesophage,1
+26,2025-05-16,2025-05-21,1,2604,metastase,2
+26,2025-05-16,2025-05-17,1,2605,uro : prostate post op,3
+26,2025-05-16,2025-05-19,1,2606,seno : sein droit,2
+26,2025-05-16,2025-05-20,1,2607,poumon : stereo 5 fx (centrale) lsd,1
+26,2025-05-16,2025-05-20,1,2608,seno : sein + gg gauche,2
+26,2025-05-16,2025-05-21,1,2609,dig : oesophage,1
+26,2025-05-16,2025-05-19,1,2610,seno : paroi + gg droite,2
+26,2025-05-16,2025-05-16,2,2611,seno : sein + gg droit,2
+26,2025-05-16,2025-05-17,2,2612,neuro : oligoendrogliome giii,1
+26,2025-05-16,2025-05-19,1,2613,dig : pancreas exclusif,1
+26,2025-05-16,2025-05-17,1,2614,poumon : stereo 5 fx (paroi) lid,1
+26,2025-05-16,2025-05-20,1,2615,meta 30 gy,2
+26,2025-05-16,2025-05-22,2,2616,poumon : stade iii lsd,1
+26,2025-05-16,2025-05-20,1,2617,neuro : metastase 16 fractions,1
+26,2025-05-16,2025-05-19,2,2618,poumon : stereo 5 fx (centrale) lm,1
+26,2025-05-16,2025-05-17,1,2619,seno : sein droit,2
+26,2025-05-16,2025-05-24,1,2620,dig : rectum,2
+26,2025-05-16,2025-05-21,1,2621,dermato : gg adjuvant,3
+29,2025-05-19,2025-05-21,1,2900,meta 20 gy,2
+29,2025-05-19,2025-05-24,1,2901,orl : tumeur en place,1
+29,2025-05-19,2025-05-23,2,2902,uro : prostate rt grains,3
+29,2025-05-19,2025-05-21,2,2903,meta 20 gy,2
+29,2025-05-19,2025-05-24,1,2904,meta 20 gy,2
+29,2025-05-19,2025-05-20,1,2905,orl : tumeur en place,1
+29,2025-05-19,2025-05-27,1,2906,uro : prostate post op,3
+29,2025-05-19,2025-05-27,2,2907,poumon : stereo 5 fx (paroi) lig,1
+29,2025-05-19,2025-05-22,2,2908,orl : plan glottique,1
+29,2025-05-19,2025-05-20,2,2909,meta 20 gy,2
+29,2025-05-19,2025-05-20,2,2910,seno : sein gauche,2
+29,2025-05-19,2025-05-21,1,2911,sarcome : pre ou post-operatoire sans chimio,1
+29,2025-05-19,2025-05-23,1,2912,poumon : stereo 5 fx (paroi) lsd,1
+29,2025-05-19,2025-05-24,2,2913,meta 20 gy,2
+29,2025-05-19,2025-05-21,2,2914,pedia : neuroblastome,1
+29,2025-05-19,2025-05-22,1,2915,sarcome : pre ou post-operatoire sans chimio,1
+29,2025-05-19,2025-05-23,1,2916,seno : boost lit t droit,2
+29,2025-05-19,2025-05-20,2,2917,orl : post op,1
+29,2025-05-19,2025-05-24,1,2918,seno : paroi + gg gauche,2
+29,2025-05-19,2025-05-24,1,2919,dermato : spino/baso en place,3
+29,2025-05-19,2025-05-22,2,2920,uro : prostate rt,3
+29,2025-05-19,2025-05-23,1,2921,seno : sein droit,2
+30,2025-05-20,2025-05-21,1,3000,poumon : hypofx 55 lsd,1
+30,2025-05-20,2025-05-22,1,3001,poumon : stereo 5 fx (paroi) lsg,1
+30,2025-05-20,2025-05-24,1,3002,orl : tumeur en place,1
+30,2025-05-20,2025-05-24,2,3003,meta 30 gy,2
+30,2025-05-20,2025-05-27,1,3004,seno : paroi + gg droite,2
+30,2025-05-20,2025-05-27,2,3005,uro : prostate rt,3
+30,2025-05-20,2025-05-23,2,3006,neuro : gliome de bas grade,1
+30,2025-05-20,2025-05-24,1,3007,neuro : glioblastome,1
+30,2025-05-20,2025-05-24,2,3008,seno : sein gauche,2
+30,2025-05-20,2025-05-21,1,3009,dig : estomac,1
+30,2025-05-20,2025-05-27,2,3010,seno : sein droit,2
+30,2025-05-20,2025-05-27,2,3011,dig : rectum,2
+30,2025-05-20,2025-05-27,1,3012,neuro : meningiome gii,1
+30,2025-05-20,2025-05-26,2,3013,poumon : stereo 5 fx (paroi) lsd,1
+30,2025-05-20,2025-05-21,2,3014,metastase,2
+30,2025-05-20,2025-05-23,2,3015,seno : sein gauche,2
+30,2025-05-20,2025-05-21,1,3016,seno : sein gauche,2
+30,2025-05-20,2025-05-22,2,3017,neuro : meningiome gii,1
+30,2025-05-20,2025-05-22,1,3018,hemato : myelome,2
+30,2025-05-20,2025-05-27,1,3019,uro : prostate rt grains,3
+30,2025-05-20,2025-05-20,1,3020,seno : boost lit t gauche,2
+30,2025-05-20,2025-05-24,2,3021,orl : post op,1
+30,2025-05-20,2025-05-24,2,3022,seno : sein gauche,2
+30,2025-05-20,2025-05-27,1,3023,meta 30 gy,2
+31,2025-05-21,2025-05-24,1,3100,poumon : stereo 5 fx (centrale) lsg,1
+31,2025-05-21,2025-05-24,1,3101,seno : sein droit,2
+31,2025-05-21,2025-05-27,1,3102,seno : sein droit,2
+31,2025-05-21,2025-05-24,1,3103,seno : sein gauche,2
+31,2025-05-21,2025-05-24,2,3104,orl : post op,1
+31,2025-05-21,2025-05-26,2,3105,seno : sein droit,2
+31,2025-05-21,2025-05-23,1,3106,meta 20 gy,2
+31,2025-05-21,2025-05-23,1,3107,neuro : glioblastome,1
+31,2025-05-21,2025-05-27,2,3108,neuro : metastase stic 3 fractions 30 gy,1
+31,2025-05-21,2025-05-26,2,3109,gyneco : vulve,2
+31,2025-05-21,2025-05-27,1,3110,meta 30 gy,2
+31,2025-05-21,2025-05-24,1,3111,seno : sein droit,2
+31,2025-05-21,2025-05-27,2,3112,uro : prostate post op,3
+31,2025-05-21,2025-05-27,2,3113,seno : sein droit,2
+31,2025-05-21,2025-05-23,2,3114,poumon : stereo 5 fx (centrale) lsd,1
+31,2025-05-21,2025-05-22,2,3115,uro : prostate post op,3
+31,2025-05-21,2025-05-23,1,3116,meta 8 gy,1
+31,2025-05-21,2025-05-23,1,3117,dig : rectum,2
+31,2025-05-21,2025-05-23,1,3118,sarcome : pre ou post-operatoire avec chimio,1
+31,2025-05-21,2025-05-23,2,3119,poumon : hypofx 60 lsd,1
+31,2025-05-21,2025-05-28,1,3120,dermato : spino/baso en place,3
+31,2025-05-21,2025-05-23,1,3121,dig : foie 5 fractions,2
+31,2025-05-21,2025-05-24,2,3122,meta 8 gy,1
+31,2025-05-21,2025-05-27,2,3123,seno : sein droit,2
+31,2025-05-21,2025-05-27,2,3124,dig : foie 5 fractions,2
+31,2025-05-21,2025-05-23,2,3125,gyneco : colvagin,2
+31,2025-05-21,2025-05-23,2,3126,seno : sein gauche,2
+31,2025-05-21,2025-05-27,2,3127,poumon : hypofx 60 lid,1
+31,2025-05-21,2025-05-24,1,3128,seno : sein droit,2
+31,2025-05-21,2025-05-26,2,3129,orl : post op,1
+31,2025-05-21,2025-05-27,1,3130,seno : sein gauche,2
+32,2025-05-22,2025-05-30,2,3200,meta 30 gy,2
+32,2025-05-22,2025-05-27,1,3201,poumon : hypofx 60 lid,1
+32,2025-05-22,2025-05-24,2,3202,sarcome : pre ou post-operatoire avec chimio,1
+32,2025-05-22,2025-05-27,2,3203,seno : sein droit,2
+32,2025-05-22,2025-05-23,1,3204,seno : sein droit,2
+32,2025-05-22,2025-05-27,2,3205,meta 20 gy,2
+32,2025-05-22,2025-05-23,1,3206,uro : prostate post op,3
+32,2025-05-22,2025-05-29,2,3207,hemato : myelome,2
+32,2025-05-22,2025-05-27,2,3208,orl : tumeur en place,1
+32,2025-05-22,2025-05-22,2,3209,seno : sein gauche,2
+32,2025-05-22,2025-05-27,2,3210,uro : prostate rt,3
+32,2025-05-22,2025-05-22,1,3211,hemato : hodgkin,2
+32,2025-05-22,2025-05-28,1,3212,poumon : stereo 5 fx (paroi) lsg,1
+32,2025-05-22,2025-05-27,2,3213,sarcome : pre ou post-operatoire avec chimio,1
+32,2025-05-22,2025-05-27,2,3214,seno : sein droit,2
+32,2025-05-22,2025-05-23,1,3215,meta 8 gy,1
+32,2025-05-22,2025-05-22,2,3216,neuro : schwannome,3
+32,2025-05-22,2025-05-26,1,3217,seno : sein gauche dibh,2
+32,2025-05-22,2025-05-28,1,3218,seno : sein + gg gauche,2
+32,2025-05-22,2025-05-26,1,3219,gyneco : colvagin,2
+32,2025-05-22,2025-05-27,2,3220,neuro : oligoendrogliome giii,1
+32,2025-05-22,2025-05-27,2,3221,meta vertebre 3 fx,2
+32,2025-05-22,2025-05-27,2,3222,uro : prostate hypofrac,3
+32,2025-05-22,2025-05-29,1,3223,uro : prostate rt,3
+33,2025-05-23,2025-05-26,2,3300,seno : sein droit,2
+33,2025-05-23,2025-05-26,1,3301,poumon : stade iii lsg,1
+33,2025-05-23,2025-05-26,1,3302,orl : plan glottique,1
+33,2025-05-23,2025-05-27,1,3303,uro : prostate post op,3
+33,2025-05-23,2025-05-27,1,3304,uro : prostate post op,3
+33,2025-05-23,2025-05-28,1,3305,neuro : glioblastome,1
+33,2025-05-23,2025-05-27,1,3306,pedia : ependymome,1
+33,2025-05-23,2025-05-27,2,3307,pedia : neuroblastome,1
+33,2025-05-23,2025-05-29,2,3308,meta 30 gy,2
+33,2025-05-23,2025-05-26,1,3309,sarcome : pre ou post-operatoire sans chimio,1
+33,2025-05-23,2025-05-26,1,3310,meta 20 gy,2
+33,2025-05-23,2025-05-28,2,3311,uro : prostate post op,3
+33,2025-05-23,2025-05-23,1,3312,seno : sein + gg gauche,2
+33,2025-05-23,2025-05-27,1,3313,uro : prostate rt grains,3
+33,2025-05-23,2025-05-27,1,3314,uro : stec prostate grains,3
+33,2025-05-23,2025-05-28,2,3315,sarcome : pre ou post-operatoire sans chimio,1
+33,2025-05-23,2025-05-27,2,3316,seno : sein gauche,2
+33,2025-05-23,2025-05-27,1,3317,metastase,2
+33,2025-05-23,2025-05-28,1,3318,sarcome : pre ou post-operatoire sans chimio,1
+33,2025-05-23,2025-05-27,2,3319,neuro : glioblastome age,1
+33,2025-05-23,2025-05-28,2,3320,poumon : stereo 5 fx (paroi) lsg,1
+33,2025-05-23,2025-05-29,2,3321,seno : sein gauche,2
+33,2025-05-23,2025-05-26,1,3322,dig : rectum,2
+33,2025-05-23,2025-05-27,1,3323,seno : boost lit t gauche,2
+33,2025-05-23,2025-05-27,1,3324,pedia : neuroblastome,1
+33,2025-05-23,2025-05-26,1,3325,gyneco : endometre,2
+33,2025-05-23,2025-05-29,2,3326,sarcome : pre ou post-operatoire sans chimio,1
+36,2025-05-26,2025-05-28,2,3600,seno : sein droit,2
+36,2025-05-26,2025-05-29,1,3601,uro : prostate post op,3
+36,2025-05-26,2025-06-03,2,3602,meta 30 gy,2
+36,2025-05-26,2025-05-30,2,3603,seno : sein droit,2
+36,2025-05-26,2025-05-27,2,3604,uro : prostate post op,3
+36,2025-05-26,2025-05-30,1,3605,hemato : lymphome nh,2
+36,2025-05-26,2025-05-31,1,3606,orl : post op,1
+36,2025-05-26,2025-05-31,1,3607,orl : post op,1
+36,2025-05-26,2025-05-29,2,3608,seno : sein droit,2
+36,2025-05-26,2025-05-28,2,3609,uro : prostate post op,3
+36,2025-05-26,2025-05-30,2,3610,dig : rectum 5 fractions,2
+36,2025-05-26,2025-05-30,1,3611,uro : prostate post op,3
+36,2025-05-26,2025-05-29,2,3612,seno : sein droit,2
+36,2025-05-26,2025-05-26,2,3613,orl : tumeur en place,1
+36,2025-05-26,2025-05-28,1,3614,seno : boost lit t droit,2
+36,2025-05-26,2025-06-02,1,3615,neuro : gliome de bas grade,1
+36,2025-05-26,2025-05-27,2,3616,seno : paroi + gg droite,2
+36,2025-05-26,2025-05-31,2,3617,uro : stec prostate grains,3
+36,2025-05-26,2025-05-28,1,3618,uro : prostate post op,3
+36,2025-05-26,2025-05-31,2,3619,seno : sein droit,2
+36,2025-05-26,2025-06-02,2,3620,neuro : meningiome gii,1
+36,2025-05-26,2025-06-03,2,3621,hemato : hodgkin,2
+36,2025-05-26,2025-05-31,1,3622,seno : sein gauche,2
+36,2025-05-26,2025-05-30,1,3623,orl : tumeur en place,1
+37,2025-05-27,2025-05-28,1,3700,uro : prostate rt,3
+37,2025-05-27,2025-05-28,2,3701,poumon : stade iii lsd,1
+37,2025-05-27,2025-06-02,1,3702,sarcome : pre ou post-operatoire avec chimio,1
+37,2025-05-27,2025-05-27,2,3703,orl : tumeur en place,1
+37,2025-05-27,2025-06-03,1,3704,seno : sein droit,2
+37,2025-05-27,2025-06-02,1,3705,neuro : glioblastome,1
+37,2025-05-27,2025-05-29,2,3706,seno : paroi + gg gauche,2
+37,2025-05-27,2025-05-29,2,3707,meta 8 gy,1
+37,2025-05-27,2025-05-30,1,3708,seno : sein droit,2
+37,2025-05-27,2025-05-28,2,3709,sarcome : pre ou post-operatoire avec chimio,1
+37,2025-05-27,2025-05-28,1,3710,meta 20 gy,2
+37,2025-05-27,2025-05-29,2,3711,dermato : spino/baso en place,3
+37,2025-05-27,2025-05-29,1,3712,uro : prostate post op,3
+37,2025-05-27,2025-05-30,1,3713,orl : tumeur en place,1
+37,2025-05-27,2025-05-30,1,3714,meta 20 gy,2
+37,2025-05-27,2025-05-30,1,3715,meta 30 gy,2
+37,2025-05-27,2025-05-28,2,3716,poumon : stereo 5 fx (centrale) lsg,1
+37,2025-05-27,2025-06-05,1,3717,orl : post op,1
+37,2025-05-27,2025-05-27,1,3718,poumon : hypofx 55 lsg,1
+37,2025-05-27,2025-06-03,1,3719,seno : sein gauche,2
+37,2025-05-27,2025-05-27,2,3720,seno : sein gauche,2
+37,2025-05-27,2025-06-03,2,3721,gyneco : colvagin,2
+38,2025-05-28,2025-05-31,2,3800,hemato : hodgkin,2
+38,2025-05-28,2025-05-31,2,3801,seno : paroi + gg gauche,2
+38,2025-05-28,2025-06-05,1,3802,metastase,2
+38,2025-05-28,2025-06-02,1,3803,seno : sein gauche,2
+38,2025-05-28,2025-05-31,1,3804,meta 20 gy,2
+38,2025-05-28,2025-05-30,2,3805,hemato : lymphome nh,2
+38,2025-05-28,2025-06-03,1,3806,uro : prostate rt,3
+38,2025-05-28,2025-05-31,1,3807,metastase,2
+38,2025-05-28,2025-05-30,2,3808,seno : sein + gg droit,2
+38,2025-05-28,2025-06-03,1,3809,seno : sein gauche,2
+38,2025-05-28,2025-06-03,2,3810,seno : sein gauche,2
+38,2025-05-28,2025-06-03,1,3811,orl : plan glottique,1
+38,2025-05-28,2025-05-31,1,3812,seno : sein droit,2
+38,2025-05-28,2025-05-31,1,3813,seno : sein + gg gauche,2
+38,2025-05-28,2025-06-02,2,3814,seno : sein + gg gauche,2
+38,2025-05-28,2025-06-02,2,3815,orl : tumeur en place,1
+38,2025-05-28,2025-05-31,1,3816,seno : sein droit,2
+38,2025-05-28,2025-05-29,1,3817,seno : sein droit,2
+38,2025-05-28,2025-06-02,1,3818,seno : sein droit,2
+38,2025-05-28,2025-05-31,2,3819,neuro : glioblastome,1
+38,2025-05-28,2025-05-29,2,3820,dermato : spino/baso en place,3
+38,2025-05-28,2025-06-04,2,3821,sarcome : pre ou post-operatoire avec chimio,1
+38,2025-05-28,2025-06-04,2,3822,orl : tumeur en place,1
+38,2025-05-28,2025-05-28,2,3823,uro : prostate post op,3
+38,2025-05-28,2025-06-04,2,3824,seno : sein gauche,2
+40,2025-05-30,2025-06-03,1,4000,meta 30 gy,2
+40,2025-05-30,2025-06-04,1,4001,meta 30 gy,2
+40,2025-05-30,2025-06-04,2,4002,meta 20 gy,2
+40,2025-05-30,2025-06-02,1,4003,poumon : stereo 5 fx (paroi) lsd,1
+40,2025-05-30,2025-06-06,1,4004,hemato : myelome,2
+40,2025-05-30,2025-06-02,1,4005,meta 30 gy,2
+40,2025-05-30,2025-06-02,2,4006,seno : sein gauche dibh,2
+40,2025-05-30,2025-06-04,1,4007,neuro : glioblastome,1
+40,2025-05-30,2025-06-05,2,4008,uro : prostate rt,3
+40,2025-05-30,2025-06-04,1,4009,sarcome : pre ou post-operatoire sans chimio,1
+40,2025-05-30,2025-06-03,1,4010,seno : sein droit,2
+40,2025-05-30,2025-06-03,1,4011,sarcome : pre ou post-operatoire sans chimio,1
+40,2025-05-30,2025-06-06,2,4012,seno : sein + gg gauche,2
+40,2025-05-30,2025-06-03,1,4013,orl : tumeur en place,1
+40,2025-05-30,2025-06-02,1,4014,uro : prostate rt,3
+40,2025-05-30,2025-06-03,2,4015,neuro : glioblastome,1
+40,2025-05-30,2025-06-03,2,4016,seno : sein gauche,2
+43,2025-06-02,2025-06-10,1,4300,seno : sein + gg droit,2
+43,2025-06-02,2025-06-02,2,4301,orl : post op,1
+43,2025-06-02,2025-06-07,1,4302,uro : prostate rt,3
+43,2025-06-02,2025-06-07,1,4303,seno : sein droit,2
+43,2025-06-02,2025-06-05,2,4304,uro : prostate post op,3
+43,2025-06-02,2025-06-05,1,4305,neuro : metastase stic 3 fractions 30 gy,1
+43,2025-06-02,2025-06-10,1,4306,poumon : stade iii lig,1
+43,2025-06-02,2025-06-06,2,4307,uro : prostate post op,3
+43,2025-06-02,2025-06-05,2,4308,meta 8 gy,1
+43,2025-06-02,2025-06-05,1,4309,dermato : gg adjuvant,3
+43,2025-06-02,2025-06-02,1,4310,sarcome : post-operatoire r 1,1
+43,2025-06-02,2025-06-09,2,4311,uro : prostate post op,3
+43,2025-06-02,2025-06-06,2,4312,seno : sein gauche,2
+43,2025-06-02,2025-06-05,1,4313,seno : sein gauche,2
+43,2025-06-02,2025-06-05,1,4314,neuro : meningiome gii,1
+43,2025-06-02,2025-06-04,2,4315,meta 30 gy,2
+43,2025-06-02,2025-06-07,2,4316,seno : sein droit,2
+43,2025-06-02,2025-06-06,1,4317,meta 8 gy,1
+43,2025-06-02,2025-06-02,2,4318,seno : paroi + gg gauche,2
+43,2025-06-02,2025-06-06,1,4319,neuro : glioblastome,1
+43,2025-06-02,2025-06-09,2,4320,meta 30 gy,2
+44,2025-06-03,2025-06-10,1,4400,seno : sein droit,2
+44,2025-06-03,2025-06-06,2,4401,seno : sein droit,2
+44,2025-06-03,2025-06-06,1,4402,meta 20 gy,2
+44,2025-06-03,2025-06-05,2,4403,neuro : glioblastome,1
+44,2025-06-03,2025-06-05,1,4404,poumon : stereo 5 fx (centrale) lsd,1
+44,2025-06-03,2025-06-07,2,4405,orl : post op,1
+44,2025-06-03,2025-06-10,2,4406,seno : sein droit,2
+44,2025-06-03,2025-06-03,2,4407,pedia : hodgkin,1
+44,2025-06-03,2025-06-06,2,4408,meta 8 gy,1
+44,2025-06-03,2025-06-10,1,4409,neuro : glioblastome,1
+44,2025-06-03,2025-06-07,1,4410,seno : sein gauche,2
+44,2025-06-03,2025-06-05,1,4411,gyneco : endometrela,2
+44,2025-06-03,2025-06-03,2,4412,uro : prostate grains hypofrac,3
+44,2025-06-03,2025-06-07,2,4413,meta 30 gy,2
+45,2025-06-04,2025-06-07,2,4500,metastase,2
+45,2025-06-04,2025-06-10,2,4501,neuro : metastase stic 5 fractions 35 gy,1
+45,2025-06-04,2025-06-09,1,4502,seno : sein gauche,2
+45,2025-06-04,2025-06-07,2,4503,uro : prostate rt,3
+45,2025-06-04,2025-06-10,2,4504,uro : prostate rt,3
+45,2025-06-04,2025-06-07,1,4505,sarcome : pre ou post-operatoire avec chimio,1
+45,2025-06-04,2025-06-07,1,4506,neuro : glioblastome,1
+45,2025-06-04,2025-06-05,1,4507,gyneco : colvaginla,2
+45,2025-06-04,2025-06-06,1,4508,meta : os 3 fractions 30 gy,2
+45,2025-06-04,2025-06-10,2,4509,seno : sein gauche,2
+45,2025-06-04,2025-06-10,2,4510,poumon : stade iii lsd,1
+45,2025-06-04,2025-06-09,2,4511,seno : sein droit,2
+45,2025-06-04,2025-06-05,1,4512,neuro : gliome de bas grade,1
+45,2025-06-04,2025-06-05,1,4513,seno : sein gauche,2
+45,2025-06-04,2025-06-10,1,4514,gyneco : endometre,2
+45,2025-06-04,2025-06-04,2,4515,meta : os 5 fractions 30 gy,2
+45,2025-06-04,2025-06-07,2,4516,metastase,2
+45,2025-06-04,2025-06-10,2,4517,gyneco : colvagin,2
+45,2025-06-04,2025-06-10,2,4518,neuro : oligoendrogliome giii,1
+45,2025-06-04,2025-06-07,2,4519,meta 20 gy,2
+45,2025-06-04,2025-06-06,1,4520,hemato : lymphome nh,2
+45,2025-06-04,2025-06-09,1,4521,uro : prostate hypofrac,3
+45,2025-06-04,2025-06-07,1,4522,uro : prostate rt,3
+45,2025-06-04,2025-06-06,2,4523,seno : sein gauche,2
+45,2025-06-04,2025-06-09,2,4524,seno : sein droit,2
+45,2025-06-04,2025-06-10,1,4525,seno : sein droit,2
+45,2025-06-04,2025-06-07,2,4526,seno : sein gauche,2
+45,2025-06-04,2025-06-05,1,4527,meta 8 gy,1
+45,2025-06-04,2025-06-05,1,4528,neuro : glioblastome,1
+45,2025-06-04,2025-06-10,1,4529,sarcome : pre ou post-operatoire sans chimio,1
+46,2025-06-05,2025-06-10,2,4600,seno : sein droit,2
+46,2025-06-05,2025-06-10,1,4601,sarcome : pre ou post-operatoire sans chimio,1
+46,2025-06-05,2025-06-10,2,4602,seno : sein droit,2
+46,2025-06-05,2025-06-10,1,4603,metastase,2
+46,2025-06-05,2025-06-05,1,4604,dig : rectum,2
+46,2025-06-05,2025-06-07,2,4605,uro : prostate post op,3
+46,2025-06-05,2025-06-10,1,4606,seno : paroi + gg gauche,2
+46,2025-06-05,2025-06-04,2,4607,seno : paroi gauche,2
+46,2025-06-05,2025-06-11,2,4608,seno : sein droit,2
+46,2025-06-05,2025-06-07,2,4609,seno : sein gauche,2
+46,2025-06-05,2025-06-09,1,4610,seno : sein + gg gauche,2
+46,2025-06-05,2025-06-06,2,4611,uro : prostate rt grains,3
+46,2025-06-05,2025-06-10,2,4612,poumon : stereo 5 fx (paroi) lsg,1
+46,2025-06-05,2025-06-13,2,4613,seno : paroi + gg gauche,2
+46,2025-06-05,2025-06-10,2,4614,seno : sein gauche,2
+46,2025-06-05,2025-06-10,1,4615,uro : prostate post op,3
+46,2025-06-05,2025-06-12,2,4616,seno : sein droit,2
+46,2025-06-05,2025-06-12,2,4617,neuro : glioblastome age,1
+46,2025-06-05,2025-06-07,1,4618,seno : boost lit t gauche,2
+46,2025-06-05,2025-06-07,1,4619,sarcome : pre ou post-operatoire sans chimio,1
+46,2025-06-05,2025-06-10,1,4620,orl : plan glottique,1
+46,2025-06-05,2025-06-09,1,4621,poumon : hypofx 60 lid,1
+46,2025-06-05,2025-06-11,1,4622,seno : sein gauche,2
+46,2025-06-05,2025-06-07,2,4623,dermato : spino/baso en place,3
+46,2025-06-05,2025-06-10,2,4624,neuro : metastase stic 3 fractions 30 gy,1
+46,2025-06-05,2025-06-10,1,4625,uro : prostate rt,3
+46,2025-06-05,2025-06-09,2,4626,seno : sein gauche,2
+46,2025-06-05,2025-06-06,2,4627,seno : sein gauche,2
+47,2025-06-06,2025-06-09,1,4700,uro : prostate grains hypofrac,3
+47,2025-06-06,2025-06-13,2,4701,meta 20 gy,2
+47,2025-06-06,2025-06-09,2,4702,neuro : glioblastome,1
+47,2025-06-06,2025-06-12,1,4703,neuro : glioblastome,1
+47,2025-06-06,2025-06-11,2,4704,seno : sein droit,2
+47,2025-06-06,2025-06-09,1,4705,seno : sein gauche,2
+47,2025-06-06,2025-06-13,1,4706,neuro : metastase stic 3 fractions 30 gy,1
+47,2025-06-06,2025-06-06,2,4707,seno : sein droit,2
+47,2025-06-06,2025-06-07,2,4708,meta vertebre 3 fx,2
+47,2025-06-06,2025-06-06,2,4709,meta 20 gy,2
+47,2025-06-06,2025-06-07,1,4710,meta 20 gy,2
+47,2025-06-06,2025-06-09,2,4711,seno : sein droit,2
+47,2025-06-06,2025-06-07,2,4712,seno : sein + gg gauche,2
+47,2025-06-06,2025-06-09,2,4713,neuro : schwannome,3
+47,2025-06-06,2025-06-10,2,4714,pedia : gliome du tronc,1
+47,2025-06-06,2025-06-09,1,4715,seno : paroi gauche,2
+47,2025-06-06,2025-06-10,1,4716,seno : sein droit,2
+47,2025-06-06,2025-06-06,1,4717,uro : prostate hypofrac,3
+47,2025-06-06,2025-06-10,2,4718,pedia : nephroblastome,1
+47,2025-06-06,2025-06-07,2,4719,meta 30 gy,2
+47,2025-06-06,2025-06-10,2,4720,poumon : stereo 3 fx lm,1

@@ -1,0 +1,15 @@
+#!/bin/bash
+# Options SBATCH :
+
+# SBATCH --job-name=RTSP                        # Nom du Job
+# SBATCH --cpus-per-task=1                      # Allocation de CPUs par Task
+
+# SBATCH --mail-type=END                        # Notification par email de la
+# SBATCH --mail-user=hugues.rauwel@irit.fr      # fin de l'exécution du job.
+
+# SBATCH --partition=24CPUNodes
+
+# Traitement
+export PYTHONPATH=$PYTHONPATH:/home/hrauwel/rtsp
+module load Python/3.12.2
+python simulations/simulate_over_horizon.py foo

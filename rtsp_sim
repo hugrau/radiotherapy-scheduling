@@ -1,0 +1,40 @@
+#!/bin/bash
+# SBATCH --job-name=radiotherapy_scheduling                         # Name of the job
+# SBATCH --cpus-per-task=1                                          # CPUs / Task
+# SBATCH --partition=24CPUNodes
+## SBATCH --array=1-10
+# PATHS
+all_simulations_file="simulations/simulations_list.txt"
+# READ all config files
+lines=()
+while IFS= read -r line; do
+  lines+=("$line")
+done < "$all_simulations_file"
+# Determine the specific line to process based on the array index
+if [[ -v SLURM_ARRAY_TASK_ID ]]; then
+  task_id="$SLURM_ARRAY_TASK_ID"
+  # Adjust index if your array starts from 1 but array indices start from 0
+  array_index="$((task_id - 1))"
+
+  # Check if the index is within the bounds of the array
+  if [[ "$array_index" -ge 0 && "$array_index" -lt "${#lines[@]}" ]]; then
+    config_to_process="${lines[$array_index]}"
+    printf "Task ID: $task_id, Processing config: $config_to_process\n"
+
+    # Now you can use $config_to_process in your simulation command
+    export PYTHONPATH=$PYTHONPATH:/home/hrauwel/rtsp
+    module load Python/3.12.2
+    python simulations/simulate_over_horizon.py "$config_to_process"
+  else
+    echo "Error: Task ID $task_id is out of bounds for the simulations list."
+  fi
+else
+  echo "Error: SLURM_ARRAY_TASK_ID is not defined. This script should be run as part of a Slurm job array."
+fi
+#
+# show me all the SLURM variables, for diagnostic purposes
+# printf "SLURM variables:\n"
+# env | egrep '^SLURM'
+
+## Launch command:  sbatch --array=1-$(wc -l file_list)%4 rtsp_sim
+## sbatch will stop processing further #SBATCH directives once the first non-comment non-whitespace line has been reached in the script.

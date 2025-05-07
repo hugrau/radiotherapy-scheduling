@@ -1,0 +1,138 @@
+location,proportion
+coeur : stec dose unique,0.00019908421262193908
+dermato : gg adjuvant,0.013736810670913797
+dermato : spino/baso en place,0.0173203264981087
+dig : canal anal,0.0035835158271949035
+dig : estomac,0.0015926737009755126
+dig : foie 3 fractions,0.0005972526378658173
+dig : foie 5 fractions,0.01075054748158471
+dig : oesophage,0.00856062114274338
+dig : oesophage preop,0.0015926737009755126
+dig : pancreas exclusif,0.00437985267768266
+dig : pancreas preop,0.0005972526378658173
+dig : rectum,0.011546884332072467
+dig : rectum 5 fractions,0.00437985267768266
+dig : voie biliaires exclusive,0.00019908421262193908
+dig : voie biliaires preop,0.00039816842524387816
+gyneco : colvagin,0.006768863229145929
+gyneco : colvaginla,0.001990842126219391
+gyneco : colvaginlaing,0.0007963368504877563
+gyneco : endometre,0.007764284292255624
+gyneco : endometrela,0.0009954210631096954
+gyneco : vulve,0.0007963368504877563
+hemato : hodgkin,0.012343221182560224
+hemato : ict 12 gy,0.00019908421262193908
+hemato : ict 8 gy,0.00039816842524387816
+hemato : lymphome nh,0.014533147521401554
+hemato : myélome,0.006171610591280112
+meta : os 3 fractions 24 gy,0.00019908421262193908
+meta : os 3 fractions 27 gy,0.0005972526378658173
+meta : os 3 fractions 30 gy,0.0015926737009755126
+meta : os 5 fractions 30 gy,0.002389010551463269
+meta : os homogene 5 fractions 30 gy,0.00019908421262193908
+meta 20 gy,0.05275731634481386
+meta 30 gy,0.061317937487557234
+meta 8 gy,0.02588094764085208
+meta vertebre 3 fx,0.006768863229145929
+metastase,0.022894684451522995
+neuro : glioblastome,0.037228747760302605
+neuro : glioblastome agé,0.004778021102926538
+neuro : gliome de bas grade,0.007366115867011746
+neuro : meningiome gii,0.003981684252438782
+neuro : meningiome giii,0.00039816842524387816
+neuro : meningiome sans hist/gi,0.00019908421262193908
+neuro : métastase 16 fractions,0.0015926737009755126
+neuro : metastase stic 3 fractions 27gy,0.00019908421262193908
+neuro : metastase stic 3 fractions 30gy,0.009157873780609197
+neuro : metastase stic 5 fractions 30gy,0.00019908421262193908
+neuro : metastase stic 5 fractions 35gy,0.00019908421262193908
+neuro : metastase dose unique 20 gy,0.00218992633884133
+neuro : metastase dose unique 22 gy,0.0005972526378658173
+neuro : metastase dose unique 24 gy,0.00039816842524387816
+neuro : metastase stic homogene 5 fractions 30gy ,0.00019908421262193908
+neuro : métastase wb,0.00019908421262193908
+neuro : métastase: wb + boost,0.00019908421262193908
+neuro : métastase: wb palliatif,0.00019908421262193908
+neuro : oligoendrogliome giii,0.004778021102926538
+neuro : schwannome,0.0033844316145729644
+neuro : stic 3 fractions 24 gy,0.00019908421262193908
+neuro : adénome hypophysaire,0.00019908421262193908
+neuro : métastase stic dose unique,0.00019908421262193908
+neuro : paragangliome,0.00019908421262193908
+orbitopathie,0.00039816842524387816
+orl : plan glottique,0.014134979096157674
+orl : post op,0.023292852876766874
+orl : réirradiation post-op,0.00218992633884133
+orl : réirradiation t en place,0.00019908421262193908
+orl : tumeur en place,0.03205255823213219
+pedia : autre,0.00039816842524387816
+pedia : craniopharyngiome,0.00019908421262193908
+pedia : craniospinal autre,0.00039816842524387816
+pedia : craniospinal medullo haut risque,0.0005972526378658173
+pedia : craniospinal medullo haut risque boost,0.0015926737009755126
+pedia : craniospinal medullo standard,0.00039816842524387816
+pedia : craniospinal medullo standard boost,0.0011945052757316346
+pedia : ependymome,0.0017917579135974518
+pedia : gliome du tronc,0.0011945052757316346
+pedia : hodgkin,0.00019908421262193908
+pedia : nephroblastome,0.0013935894883535735
+pedia : neuroblastome,0.0015926737009755126
+pedia : sarcome,0.00019908421262193908
+pedia : tgm boost,0.00019908421262193908
+pedia : tgm ventricules,0.00019908421262193908
+poumon : hypofx 55 lid,0.0011945052757316346
+poumon : hypofx 55 lig,0.0013935894883535735
+poumon : hypofx 55 lm,0.0007963368504877563
+poumon : hypofx 55 lsd,0.003981684252438782
+poumon : hypofx 55 lsg,0.00218992633884133
+poumon : hypofx 60 lid,0.0035835158271949035
+poumon : hypofx 60 lig,0.0013935894883535735
+poumon : hypofx 60 lm,0.0005972526378658173
+poumon : hypofx 60 lsd,0.003981684252438782
+poumon : hypofx 60 lsg,0.002787178976707147
+poumon : stade iii lid,0.0013935894883535735
+poumon : stade iii lig,0.0015926737009755126
+poumon : stade iii lm,0.0013935894883535735
+poumon : stade iii lsd,0.007963368504877564
+poumon : stade iii lsg,0.004977105315548477
+poumon : stéréo 3 fx lid,0.00019908421262193908
+poumon : stéréo 3 fx lig,0.0005972526378658173
+poumon : stéréo 3 fx lm,0.00019908421262193908
+poumon : stéréo 3 fx lsd,0.0011945052757316346
+poumon : stéréo 3 fx lsg,0.0007963368504877563
+poumon : stéréo 5 fx (centrale) lid,0.003981684252438782
+poumon : stéréo 5 fx (centrale) lig,0.004977105315548477
+poumon : stéréo 5 fx (centrale) lm,0.002389010551463269
+poumon : stéréo 5 fx (centrale) lsd,0.006171610591280112
+poumon : stéréo 5 fx (centrale) lsg,0.005574357953414294
+poumon : stéréo 5 fx (paroi) lid,0.00656977901652399
+poumon : stéréo 5 fx (paroi) lig,0.007167031654389807
+poumon : stéréo 5 fx (paroi) lm,0.0013935894883535735
+poumon : stéréo 5 fx (paroi) lsd,0.01692215807286482
+poumon : stéréo 5 fx (paroi) lsg,0.010551463268962771
+sarcome : post-opératoire r1,0.002986263189329086
+sarcome : pré ou post-opératoire avec chimio,0.015926737009755127
+sarcome : pré ou post-opératoire sans chimio,0.02150109496316942
+sarcome : rétropéritoine,0.0011945052757316346
+séno : boost lit t droit,0.005176189528170416
+séno : boost lit t gauche,0.007963368504877564
+séno : paroi + gg droite,0.008958789567987258
+séno : paroi + gg gauche,0.010352379056340831
+séno : paroi droite,0.0017917579135974518
+séno : paroi gauche,0.0035835158271949035
+séno : sein + gg droit,0.012343221182560224
+séno : sein + gg gauche,0.013338642245669918
+séno : sein bilatéral,0.00019908421262193908
+séno : sein droit,0.10013935894883536
+séno : sein gauche,0.07704559028469042
+séno : sein gauche dibh,0.007764284292255624
+uro : prostate grains hypofrac,0.0031853474019510252
+uro : prostate hypofrac,0.02130201075054748
+uro : prostate post op,0.04419669520207047
+uro : prostate rt,0.0346406529962174
+uro : prostate rt grains,0.016523989647620942
+uro : prostate rt grains + curie,0.0041807684650607205
+uro : stec prostate grains,0.001990842126219391
+uro : vessie,0.004578936890304599
+uro : vessie hypofrac 50,0.0007963368504877563
+uro : vessie hypofrac 55,0.0015926737009755126
